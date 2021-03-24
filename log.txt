@@ -1,0 +1,9 @@
+2021-03-24 15:20:29:03S -0600 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-03-24 15:20:30:03S -0600 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in /Users/m_664421/Downloads/CITS-1.4/cognizant-intelligent-test-scripter-1.4/lib/cognizant-intelligent-test-scripter-engine-1.4.jar
+2021-03-24 15:20:30:03S -0600 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/Users/m_664421/Downloads/CITS-1.4/cognizant-intelligent-test-scripter-1.4/lib/slf4j-nop-1.7.28.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/Users/m_664421/Downloads/CITS-1.4/cognizant-intelligent-test-scripter-1.4/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.helpers.NOPLoggerFactory]
+2021-03-24 15:20:56:03S -0600 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:00:27.332 ]
