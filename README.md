@@ -6,15 +6,15 @@
 ## There are two ways to install and use this tool:
 ### Using Docker (the easy way)
 
-#### PLEASE NOTE, the Instructions for Windows have not been validated.
+#### PLEASE NOTE, the Docker section in the Run.bat for Windows has not been tested.
 
 1. Ensure you have Java 11 JDK running and symlinked to /usr/bin/java (or the appropriate path in Windows)
 2. Ensure you have the JDK in your path as JAVA_HOME (Run.sh sets this for you)
 3. Download and install [Docker](https://docs.docker.com/get-docker/)
-4. If you are reading this, you should already have all the files you need in the current folder, but to be sure, confirm that you have the following files in this folder:
+4. Clone this repo into a folder and confirm you have the following files all in the "root" folder for the repo:
     * Run.command (set to be executable)
     * cognizant-intelligent-test-scripter-ide-1.4.jar
-    * Run.sh for Mac/Linux, Run.bat for Windows
+    * Run.sh for Mac/Linux and Run.bat for Windows
 
 5. If Mac/Linux, from the terminal in this folder, simply run "sh Run.sh".  If Windows, double click on "Run.bat"
 6. You should see the Intelligent Testing Tool UI start up.
