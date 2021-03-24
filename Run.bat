@@ -1,6 +1,11 @@
 @echo off
 pushd %~dp0
 
+rem ***** THIS HAS NOT BEEN TESTED *****
+docker pull selenium/standalone-firefox
+docker run -d -p 4445:4444 -v /dev/shm:/dev/shm selenium/standalone-chrome
+
+
 rem For App to load lib from
 SET APP_CLASSPATH=lib\*;lib\clib\*
 
