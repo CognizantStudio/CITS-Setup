@@ -4,7 +4,7 @@
 
 
 ## There are two ways to install and use this tool:
-### Using Docker (the easy way)
+### Using Dockerized Selenium (the easy way)
 
 #### PLEASE NOTE, the Docker section in the Run.bat for Windows has not been tested.
 
